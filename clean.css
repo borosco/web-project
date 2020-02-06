@@ -33,3 +33,9 @@ h1{
     font-style: oblique;
     font-family: cursive;
 }
+.company-details{
+    overflow: hidden;
+    padding: 3em 0em;
+    background-color: blue;
+   
+}
