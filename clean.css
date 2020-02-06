@@ -50,3 +50,10 @@ h2{
 p{
     text-align: center;
 }
+.search{
+    float: right;
+    margin: 7px;
+}
+body{
+    background-color: cyan;
+}
