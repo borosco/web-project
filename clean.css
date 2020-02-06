@@ -1,0 +1,35 @@
+ul{
+    list-style-type: none;
+    margin: 10px;
+    padding: 0px;
+    background-color: rgb(170, 159, 163);
+    overflow: hidden;
+
+}
+
+li a:hover{
+    background-color: springgreen;
+
+}
+li a{
+    display: block;
+    width: 60px;
+    color: seashell;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li{
+    display: inline-flex;
+    float: left;
+}
+a{
+    display: block;
+    padding: 8px;
+    background-color: rgb(170, 159, 163);
+}
+h1{
+    color: steelblue;
+    font-style: oblique;
+    font-family: cursive;
+}
