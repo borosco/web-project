@@ -33,9 +33,13 @@ h1{
     font-style: oblique;
     font-family: cursive;
 }
-.company-details{
-    overflow: hidden;
-    padding: 3em 0em;
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     background-color: blue;
-   
+    color: cornsilk;
+    text-align: center;
+
 }
