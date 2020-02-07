@@ -1,6 +1,6 @@
 ul{
     list-style-type: none;
-    margin: 10px;
+    margin: 0px;
     padding: 0px;
     background-color: rgb(170, 159, 163);
     overflow: hidden;
@@ -9,6 +9,7 @@ ul{
 
 li a:hover{
     background-color: springgreen;
+    
 
 }
 li a{
@@ -32,6 +33,8 @@ h1{
     color: steelblue;
     font-style: oblique;
     font-family: cursive;
+    text-align: inherit;
+    font-style: oblique;
 }
 .footer{
     position: fixed;
@@ -45,7 +48,7 @@ h1{
 }
 h2{
     text-align: center;
-    color: crimson;
+    color: mediumvioletred;
 }
 p{
     text-align: center;
@@ -56,4 +59,12 @@ p{
 }
 body{
     background-color: cyan;
+}
+h1{
+    font-family: cursive;
+    color: mediumvioletred;
+}
+h3{
+    text-align: center;
+    color: mediumvioletred;
 }
