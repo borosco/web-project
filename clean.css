@@ -9,7 +9,7 @@ ul{
 
 li a:hover{
     background-color: springgreen;
-    padding: 15px;
+    padding: 10px;
     
 
 }
@@ -78,7 +78,16 @@ h3{
 .column{
     flex: 50%;
     padding: 10px;
+    height: 300px;
+    float: left;
+    width: 50%;
 }
 h4{
     color: darkmagenta;
+}
+/*making the screen responsive to the  screen layout  */
+@media screen and (max-width:600px){
+    .column{
+        width: 100%;
+    }
 }
