@@ -4,14 +4,12 @@ ul{
     padding: 0px;
     background-color: rgb(170, 159, 163);
     overflow: hidden;
-    margin-right: 10px;
-    padding-left: 50px;
-    padding-right: 50px;
 
 }
 
 li a:hover{
     background-color: springgreen;
+    padding: 15px;
     
 
 }
