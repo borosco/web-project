@@ -4,21 +4,21 @@ ul{
     padding: 0px;
     background-color: rgb(170, 159, 163);
     overflow: hidden;
+    
+    
 
 }
 
 li a:hover{
     background-color: springgreen;
-    padding: 10px;
-    
 
 }
 li a{
     display: block;
-    width: 60px;
+    width: 120px;
     color: seashell;
     text-align: center;
-    padding: 14px 16px;
+    padding: 28px 32px;
     text-decoration: none;
 }
 li{
